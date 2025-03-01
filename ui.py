@@ -65,7 +65,7 @@ def main():
     write_json(customers, 'customers.json')
     write_json(items, 'items.json')
     
-    print("✅ customers.json and items.json have been created.")
+    print("customers.json and items.json have been created.")
 
 if __name__ == "__main__":
     main()
